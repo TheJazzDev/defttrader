@@ -14,6 +14,7 @@
     "@fortawesome/free-brands-svg-icons": "^6.2.1",
     "@fortawesome/free-solid-svg-icons": "^6.2.1",
     "@fortawesome/react-fontawesome": "^0.2.0",
+    "@netlify/plugin-nextjs": "^5.8.1",
     "@svgr/webpack": "^6.5.1",
     "axios": "^1.6.0",
     "chart.js": "^4.1.2",
@@ -31,6 +32,7 @@
     "react-loader-spinner": "^5.3.4",
     "react-quill": "^2.0.0",
     "react-toastify": "^9.1.1",
+    "sharp": "^0.33.5",
     "swiper": "^8.4.6",
     "swr": "^2.0.0",
     "tailwindcss-fluid-type": "^2.0.3",
@@ -42,5 +44,5 @@
     "postcss": "^8.4.20",
     "tailwindcss": "^3.2.4"
   },
-  "packageManager": "yarn@4.5.1+sha512.341db9396b6e289fecc30cd7ab3af65060e05ebff4b3b47547b278b9e67b08f485ecd8c79006b405446262142c7a38154445ef7f17c1d5d1de7d90bf9ce7054d"
+  "packageManager": "yarn@4.5.1"
 }
